@@ -1,4 +1,4 @@
-# AI-Powered RAG Knowledge Base & Chatbot
+# RAG Knowledge Base and Chatbot
 
 An automated dual-workflow system built in n8n designed to index complex PDF documents into a vector database and provide a context-aware AI assistant.
 The system leverages a modular architecture for retrieval-augmented generation (RAG).
